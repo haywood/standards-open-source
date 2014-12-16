@@ -1,3 +1,3 @@
 # Contribution Guidelines
 
-See https://raw.githubusercontent.com/gilt/standards/1.0.0/CONTRIBUTIONS.md
+See https://github.com/gilt/standards/blob/1.0.0/CONTRIBUTIONS.md
