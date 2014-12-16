@@ -26,7 +26,7 @@ public.
   - Clean up your config - specifically want to confirm there are no specifics of Gilt's environment
   - Review the project and its history to make sure there are no usernames, passwords, credetials, etc. If necessary, create a new repo.
   - Ask a friend or two to install / use your project just by reading the documentation.
-  - If you'd like broader review of your project - send a note to tech-rfc@gilt.com
+  - If you'd like broader review of your project - send a note to tech-rfc or ask in hip chat.
 
 ## Promote Your Project
 
