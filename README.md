@@ -58,10 +58,10 @@ Open source projects require active promotion to gain traction with the communit
          brainstorm pros/cons and can pull in the right partners in
          legal to evaluate the license.
 
-  - The MIT license doesn't address fact that someone could fork our
-    projects and completely change them. Should we make contributors
-    submit a patch to feed their changes back to the original
-    projects?
+  - The MIT license doesn't address the fact that someone could fork
+    our projects and completely change them. Should we make
+    contributors submit a patch to feed their changes back to the
+    original projects?
 
     No - users are free to fork code as they like - this is an
     integral part of open source! We will still own the canonical repo
