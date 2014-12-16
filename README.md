@@ -9,8 +9,8 @@ write publicly.
 ## Mechanics
 
 1. Use a license approved by Gilt
-   - [MIT (Preferred)](licenses/mit)
-   - [Apache License v2](licenes/apache-v2)
+   - [MIT (Preferred)](https://raw.githubusercontent.com/gilt/standards-open-source/master/licenses/mit)
+   - [Apache License v2](https://raw.githubusercontent.com/gilt/standards-open-source/master/licenses/apache-v2)
 2. Make the project public in GitHub
 
 We've really tried to make it as simple as possible to open source the
