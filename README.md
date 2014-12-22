@@ -27,6 +27,7 @@ public.
   - Review the project and its history to make sure there are no usernames, passwords, credetials, etc. If necessary, create a new repo.
   - Ask a friend or two to install / use your project just by reading the documentation.
   - If you'd like broader review of your project - send a note to tech-rfc or ask in chat.
+  - This is probably obvious, but your project should either fulfill an unmet need, or innovate meaningfully on a problem addressed by other projects. Do some research to make sure that this is really the case.
 
 ## Promote Your Project
 
